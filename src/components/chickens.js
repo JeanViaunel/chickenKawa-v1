@@ -1,0 +1,77 @@
+const chicken = [
+  {
+    id: 1,
+
+    name: "Golden Laced Wyandotte",
+    breed: "Wyandotte",
+    color: "Golden Laced",
+    age: 1,
+    gender: "Female",
+    hatchDate: "2022-01-15",
+    eggColor: "Brown",
+    eggsLaid: 30,
+    image:
+      "data:image/jpeg;base64,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",
+    description:
+      "Meet our lovely Golden Laced Wyandotte named Daisy. She is a 1-year-old female chicken known for her beautiful golden laced feathers. Daisy hatched on January 15, 2022, and has laid 30 brown eggs so far.",
+  },
+  {
+    id: 2,
+    name: "Rhode Island Red",
+    breed: "Rhode Island Red",
+    color: "Red",
+    age: 2,
+    gender: "Male",
+    hatchDate: "2021-05-20",
+    eggColor: "Brown",
+    eggsLaid: 25,
+    image:
+      "https://images.theconversation.com/files/239356/original/file-20181004-52660-1fosymz.jpg?ixlib=rb-1.1.0&rect=121%2C5%2C3214%2C2309&q=45&auto=format&w=926&fit=clip",
+    description:
+      "Introducing our handsome Rhode Island Red rooster, Rocky. He is a 2-year-old male chicken with vibrant red plumage. Rocky hatched on May 20, 2021, and has proudly contributed to the farm with 25 brown eggs.",
+  },
+  {
+    id: 3,
+    name: "Araucana",
+    breed: "Araucana",
+    color: "Various",
+    age: 1.5,
+    gender: "Female",
+    hatchDate: "2022-03-10",
+    eggColor: "Blue or Green",
+    eggsLaid: 40,
+    image:
+      "https://eadn-wc01-4177395.nxedge.io/wp-content/uploads/2020/08/iStock-605786624_crop-1.jpg",
+    description:
+      "Say hello to our diverse Araucana hen, Rainbow. She is a 1.5-year-old female chicken with various colored feathers. Rainbow hatched on March 10, 2022, and has laid an impressive 40 eggs with blue or green hues.",
+  },
+  {
+    id: 4,
+    name: "Barred Plymouth Rock",
+    breed: "Plymouth Rock",
+    color: "Black and White",
+    age: 1.8,
+    gender: "Male",
+    hatchDate: "2021-09-05",
+    eggColor: "Brown",
+    eggsLaid: 22,
+    image: "https://thumbs.dreamstime.com/b/white-hen-14168261.jpg",
+    description:
+      "Meet our dapper Barred Plymouth Rock rooster, Oreo. He is a 1.8-year-old male chicken known for his striking black and white feathers. Oreo hatched on September 5, 2021, and has contributed 22 brown eggs to the flock.",
+  },
+  {
+    id: 5,
+    name: "Leghorn",
+    breed: "Leghorn",
+    color: "White",
+    age: 1.2,
+    gender: "Female",
+    hatchDate: "2022-02-08",
+    eggColor: "White",
+    eggsLaid: 35,
+    image: "https://www.ambresse.com/images/ambresse-hen4862-20210701.jpg",
+    description:
+      "Say hello to our elegant Leghorn hen, Snowflake. She is a 1.2-year-old female chicken with pristine white feathers. Snowflake hatched on February 8, 2022, and has laid 35 white eggs, adding a touch of purity to our egg collection.",
+  },
+];
+export default chicken;
