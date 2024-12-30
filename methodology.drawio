@@ -4,59 +4,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FDId5uryDe2fo9AVLQUm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-1" target="43aiI7Eqq8BzJhOgwkui-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="440" />
+              <mxPoint x="390" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FDId5uryDe2fo9AVLQUm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="60" width="430" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-2" target="FDId5uryDe2fo9AVLQUm-14">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FDId5uryDe2fo9AVLQUm-2" target="FDId5uryDe2fo9AVLQUm-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-2" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-2" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="80" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-4" target="FDId5uryDe2fo9AVLQUm-19">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FDId5uryDe2fo9AVLQUm-4" target="FDId5uryDe2fo9AVLQUm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-4" value="Type of Literature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-4" value="Type of Literature" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="130" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-6" target="FDId5uryDe2fo9AVLQUm-22">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FDId5uryDe2fo9AVLQUm-6" target="FDId5uryDe2fo9AVLQUm-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-6" value="Time Period" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-6" value="Time Period" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-7" value="Language" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-7" value="Language" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="231.25" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-8" target="FDId5uryDe2fo9AVLQUm-12">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FDId5uryDe2fo9AVLQUm-8" target="FDId5uryDe2fo9AVLQUm-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-8" value="Subject Area" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-8" value="Subject Area" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="302.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDId5uryDe2fo9AVLQUm-9" target="FDId5uryDe2fo9AVLQUm-10">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FDId5uryDe2fo9AVLQUm-9" target="FDId5uryDe2fo9AVLQUm-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-9" value="Keywords" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-9" value="Keywords" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="372.5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-10" value="(&quot;scan AND to AND bim AND energy&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-10" value="(&quot;scan AND to AND bim AND energy&quot;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="370" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-12" value="&quot;Engineering&quot;, &quot;Computer Science&quot;, &quot;Social Sciences&quot;, &quot;Business, Management And Accounting&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-12" value="&quot;Engineering&quot;, &quot;Computer Science&quot;, &quot;Social Sciences&quot;, &quot;Business, Management And Accounting&quot;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="190" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-14" value="Scopus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-14" value="Scopus" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="80" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-19" value="Articles And Conference Paper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-19" value="Articles And Conference Paper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="130" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-22" value="&lt;span style=&quot;color: rgb(46, 46, 46); font-family: elsevier-sans, arial, helvetica, &amp;quot;lucida sans unicode&amp;quot;, &amp;quot;microsoft sans serif&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;, stixgeneral, &amp;quot;cambria math&amp;quot;, &amp;quot;arial unicode ms&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;June 2012&amp;nbsp;&lt;/span&gt;2012 -&amp;nbsp;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: elsevier-sans, arial, helvetica, &amp;quot;lucida sans unicode&amp;quot;, &amp;quot;microsoft sans serif&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;, stixgeneral, &amp;quot;cambria math&amp;quot;, &amp;quot;arial unicode ms&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;October &lt;/span&gt;2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-22" value="&lt;span style=&quot;color: rgb(46, 46, 46); font-family: elsevier-sans, arial, helvetica, &amp;quot;lucida sans unicode&amp;quot;, &amp;quot;microsoft sans serif&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;, stixgeneral, &amp;quot;cambria math&amp;quot;, &amp;quot;arial unicode ms&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;June 2012&amp;nbsp;&lt;/span&gt;2012 -&amp;nbsp;&lt;span style=&quot;color: rgb(46, 46, 46); font-family: elsevier-sans, arial, helvetica, &amp;quot;lucida sans unicode&amp;quot;, &amp;quot;microsoft sans serif&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;, stixgeneral, &amp;quot;cambria math&amp;quot;, &amp;quot;arial unicode ms&amp;quot;, sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;October &lt;/span&gt;2024" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="180" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FDId5uryDe2fo9AVLQUm-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;elsevier-sans, arial, helvetica, lucida sans unicode, microsoft sans serif, segoe ui symbol, stixgeneral, cambria math, arial unicode ms, sans-serif&quot; color=&quot;#2e2e2e&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;English&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FDId5uryDe2fo9AVLQUm-24" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;elsevier-sans, arial, helvetica, lucida sans unicode, microsoft sans serif, segoe ui symbol, stixgeneral, cambria math, arial unicode ms, sans-serif&quot; color=&quot;#2e2e2e&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;English&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="228.75" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43aiI7Eqq8BzJhOgwkui-1" target="43aiI7Eqq8BzJhOgwkui-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-1" value="Research Databases" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="505" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="43aiI7Eqq8BzJhOgwkui-3" target="43aiI7Eqq8BzJhOgwkui-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-3" value="Literature Search and&amp;nbsp;Retrival Relevant Papers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="43aiI7Eqq8BzJhOgwkui-6" value="2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
