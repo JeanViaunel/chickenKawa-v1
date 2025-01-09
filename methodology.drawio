@@ -829,7 +829,7 @@
           <mxGeometry x="110" y="189.69000000000003" width="50" height="34.69" as="geometry" />
         </mxCell>
         <mxCell id="fKZMmJDwa1s9LeXAOx92-46" value="Stage 2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="510" width="50" height="32.38" as="geometry" />
+          <mxGeometry x="110" y="490.06" width="50" height="42.38" as="geometry" />
         </mxCell>
         <mxCell id="fKZMmJDwa1s9LeXAOx92-47" value="FInal Stage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="654.68" width="50" height="36.88" as="geometry" />
